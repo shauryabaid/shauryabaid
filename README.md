@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shauryabaid
-- 👀 I’m interested in app development and machine learning
-- 🌱 I’m currently learning IOS AppDev on Swift UI
-- 💞️ I’m looking to collaborate on app development softwares like Swift and Flutter 
+- 👀 I’m interested in stock predictions using machine learning and neural networks
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on any cool stuff 
 - 📫 How to reach me ... email me baid0003@e.ntu.edu.sg
 
 <!---
